@@ -1,6 +1,6 @@
-## FlexboxFun - A Flexbox Practice Game
+## Flexbox Fun Game 
 
-FlexboxFun is an interactive web application designed to help you master the art of using Flexbox for layout design. Test your Flexbox skills through fun challenges and puzzles, and see how well you can align and position elements using the Flexbox model. Whether you're a beginner or looking to sharpen your skills, FlexboxFun is a great way to level up your CSS layout skills.
+Flexbox Fun Game is an interactive web application designed to help you master the art of using Flexbox for layout design. Test your Flexbox skills through fun challenges and puzzles, and see how well you can align and position elements using the Flexbox model. Whether you're a beginner or looking to sharpen your skills, FlexboxFun is a great way to level up your CSS layout skills.
 
 Features:
 - Interactive Flexbox challenges
